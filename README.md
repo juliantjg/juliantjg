@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Julian 👋
+
+I am a software engineer with a degree in Computer Science. Currently a full time back-end developer, I possess corporate experience in back-end development, I have also created full-stack applications using a wide range of tools. I am passionate in acquiring knowledge on the most cutting edge tools out there.
+
+***
+**Contact:**
+- :pencil2: [Portfolio](https://juliantjg.github.io/)
+- ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/juliantj/)
+- :speech_balloon: [Email](mailto:juliantj88@gmail.com)
+
+
 
 <!--
 **juliantjg/juliantjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
