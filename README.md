@@ -11,8 +11,8 @@ I am a software engineer with a degree in Computer Science. Currently a full tim
 [![Julian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juliantjg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Julian's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juliantjg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliantjg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliantjg&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliantjg&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **juliantjg/juliantjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
