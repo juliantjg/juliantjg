@@ -5,7 +5,7 @@ I am a software engineer with a degree in Computer Science. Currently a full tim
 
 **Contact:**
 - :pencil2: [Portfolio](https://juliantjg.github.io/)
-- ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/juliantj/)
+- 🇦🇺 [LinkedIn](https://www.linkedin.com/in/juliantj/)
 - :speech_balloon: [Email](mailto:juliantj88@gmail.com)
 
 
